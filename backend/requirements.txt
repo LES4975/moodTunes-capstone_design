@@ -1,0 +1,10 @@
+FastAPI
+uvicorn
+torch
+torchvision
+Pillow
+pandas
+ultralytics
+sqlalchemy
+passlib
+openai
